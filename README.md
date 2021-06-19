@@ -108,7 +108,7 @@ print(gen_synonyms(text="投保需要哪些材料"))
 ```
 
 
-pytorch版本的simbert权重下载地址：[百度网盘](https://pan.baidu.com/s/1zYBtU21vdNsM1QgMwrbovA) 密码：v8na
+pytorch版本的simbert权重下载地址：[百度网盘](https://pan.baidu.com/s/1g-3ZkvqaLMrzh3M6o2Tz3g) 密码：odqf
 
 ### Todo
 
